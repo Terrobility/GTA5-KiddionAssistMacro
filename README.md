@@ -2,7 +2,7 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Terrobility/GTA5-KiddionAssistMacro.svg)
 
-An AHK script for automating Kiddion's "Minimum Job Payout" method. On average, you earn **GTA $4.5M** + **225,000 RP** per hour.
+An AHK script for automating Kiddion's "Minimum Job Payout" method. On average, you earn **GTA $5.1M** + up to **255,000 RP** per hour. If doing real-world trading, that would be equivalent to $0.25 USD.
 
 ![Stats screenshot - GTA $227.8M earned from Jobs](https://i.imgur.com/tQfFUIG.png)
 
