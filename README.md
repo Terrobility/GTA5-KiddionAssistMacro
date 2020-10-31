@@ -1,9 +1,11 @@
 # GTA5-KiddionAssistMacro
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Terrobility/GTA5-KiddionAssistMacro.svg)
+
 An AHK script for automating Kiddion's "Minimum Job Payout" method. Run it for just 3 hours - you'll earn **GTA $28M** and up to **1,400,000 RP** (optional).
 
 ![Stats screenshot - GTA $227.8M earned from Jobs](https://i.imgur.com/tQfFUIG.png)
+
 The advantage of this method is that earnings are "legit" and don't have to be wiped from stats. Of course, it's always your choice.
 
 
